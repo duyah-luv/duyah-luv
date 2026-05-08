@@ -2,4 +2,4 @@
 
 [![My Github stats](https://github-readme-stats-fast.vercel.app/api?username=duyah-luv&show_icons=true&hide=contribs,prs,issues&theme=radical)](https://github.com/duyah-luv/github-readme-stats)
 
-<img src="https://www.behance.net/gallery/55389655/gif-Collection-Two/modules/326567415" width="100%"/>
+<img src="https://ask.libreoffice.org/uploads/asklibo/original/3X/3/5/35664d063435f940bda4cb3bb31ea0a6c5fed2f4.gif" width="100%"/>
