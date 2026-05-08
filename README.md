@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=duyah-luv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=duyah-luv&theme=tokyonight&hide_border=true" alt="streak" />
+  <img src="https://github.com/anuraghazra/github-readme-stats" alt="stats" />
+  <img src="https://github.com/DenverCoder1/github-readme-streak-stats" alt="streak" />
 </p>
 
 <p align="center">
